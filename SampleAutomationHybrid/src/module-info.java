@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author allancarloramos
+ *
+ */
+module SampleAutomationHybrid {
+}
