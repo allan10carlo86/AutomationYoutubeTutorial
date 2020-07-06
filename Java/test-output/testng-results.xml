@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-06T02:13:31Z" name="Default suite" finished-at="2020-07-06T02:13:43Z" duration-ms="11645">
+    <groups>
+    </groups>
+    <test started-at="2020-07-06T02:13:31Z" name="Default test" finished-at="2020-07-06T02:13:43Z" duration-ms="11645">
+      <class name="com.inetbanking.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@51891008]" started-at="2020-07-06T02:13:31Z" name="setUp" finished-at="2020-07-06T02:13:36Z" duration-ms="4867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@51891008]" started-at="2020-07-06T02:13:36Z" name="loginTest" finished-at="2020-07-06T02:13:43Z" duration-ms="6520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@51891008]" started-at="2020-07-06T02:13:43Z" name="teadDown" finished-at="2020-07-06T02:13:43Z" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
