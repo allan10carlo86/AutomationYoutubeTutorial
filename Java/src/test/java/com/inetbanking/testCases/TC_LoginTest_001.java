@@ -13,9 +13,9 @@ public class TC_LoginTest_001 extends BaseClass {
 	public void loginTest() {
 		
 		
-		driver.get(super.baseURL);
+	
 		
-		LoggerClass.startTestCase(TC_LoginTest_001.class.getClass().getName());
+		LoggerClass.startTestCase(this.getClass().getName());
 		
 		LoginPage loginPage = new LoginPage(driver);
 		LoggerClass.info("Logged to URL " + super.baseURL);
@@ -34,9 +34,7 @@ public class TC_LoginTest_001 extends BaseClass {
 			Assert.assertTrue(false);
 		}
 		
-		
-		
-		LoggerClass.endTestCase(TC_LoginTest_001.class.getClass().getName());
+		LoggerClass.endTestCase(this.getClass().getName());
 
 	}
 
