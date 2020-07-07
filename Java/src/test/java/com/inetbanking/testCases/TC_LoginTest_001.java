@@ -1,5 +1,7 @@
 package com.inetbanking.testCases;
 
+import java.io.IOException;
+
 import org.testng.annotations.Test;
 
 import com.inetbanking.pageObjects.LoginPage;
@@ -10,10 +12,7 @@ import junit.framework.Assert;
 public class TC_LoginTest_001 extends BaseClass {
 	
 	@Test
-	public void loginTest() {
-		
-		
-	
+	public void loginTest() throws IOException {
 		
 		LoggerClass.startTestCase(this.getClass().getName());
 		
@@ -26,11 +25,14 @@ public class TC_LoginTest_001 extends BaseClass {
 		LoggerClass.info("Password Entered");
 		loginPage.clickSubmit();
 		
-		if(driver.getTitle().contains("Guru99 Bank Manager HomePage")) {
+		
+		boolean getTitleSame = driver.getTitle().contains("Guru99 Bank Manager HomePage");
+		if(getTitleSame) {
 			Assert.assertTrue(true);
 			LoggerClass.info("Good Title");
 		} else {
 			LoggerClass.error("Bad Title");
+			captureScreen(driver, this.getClass().getName());
 			Assert.assertTrue(false);
 		}
 		
