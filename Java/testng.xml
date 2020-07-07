@@ -8,7 +8,7 @@
 	</listeners>
 	-->
 
-<!-- 
+
 	<test name="BankingApp Test Chrome">
 		<parameter name="browser" value="chrome" />
 		<classes>
@@ -16,7 +16,7 @@
 		</classes>	
 	</test>
 	
- -->
+ 
 	<test name="BankingApp Test Firefox">
 		<parameter name="browser" value="firefox" />
 		<classes>
