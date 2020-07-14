@@ -462,3 +462,25 @@
 2020-07-14 11:46:00,751 INFO  [LoggerClass] providing customer details.... 
 2020-07-14 11:46:16,197 INFO  [LoggerClass] validation started.... 
 2020-07-14 11:46:16,208 INFO  [LoggerClass] test case passed.... 
+2020-07-14 12:02:58,132 INFO  [LoggerClass] Driver is firefox 
+2020-07-14 12:03:12,776 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 12:03:12,777 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 12:03:12,778 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-14 12:03:12,778 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 12:03:12,778 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 12:03:12,878 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-14 12:03:12,976 INFO  [LoggerClass] Username Entered 
+2020-07-14 12:03:13,057 INFO  [LoggerClass] Password Entered 
+2020-07-14 12:03:15,903 INFO  [LoggerClass] Good Title 
+2020-07-14 12:03:15,904 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-14 12:03:15,904 INFO  [LoggerClass] X 
+2020-07-14 12:03:15,904 INFO  [LoggerClass] X 
+2020-07-14 12:03:15,904 INFO  [LoggerClass] X 
+2020-07-14 12:03:15,904 INFO  [LoggerClass] X 
+2020-07-14 12:03:18,582 INFO  [LoggerClass] Driver is firefox 
+2020-07-14 12:03:31,883 INFO  [LoggerClass] Username is provided 
+2020-07-14 12:03:31,926 INFO  [LoggerClass] Username is provided 
+2020-07-14 12:03:35,827 INFO  [LoggerClass] Login Passed 
+2020-07-14 12:03:38,424 INFO  [LoggerClass] Driver is firefox 
+2020-07-14 12:03:55,583 INFO  [LoggerClass] User name is provided 
+2020-07-14 12:03:55,630 INFO  [LoggerClass] Passsword is provided 
