@@ -27,6 +27,8 @@ public class BaseClass {
 	public String chromePath;
 	public String firefoxPath;
 	public String log4jXMLPath;
+	public String chromePathWindows;
+	public String firefoxPathWindows;
 	public static ReadConfig readConfig;
 	public static WebDriver driver;
 
@@ -39,19 +41,36 @@ public class BaseClass {
 		DOMConfigurator.configure(this.log4jXMLPath);
 
 		System.out.println("Browser: " + browserToRun);
-		if (browserToRun.equals("chrome")) {
+		if(System.getProperty("os.name").toLowerCase().contains("mac")) {
+			if (browserToRun.equals("chrome")) {
 
-			System.out.println(this.chromePath);
-			System.setProperty("webdriver.chrome.driver", this.chromePath);
-			LoggerClass.info("Driver is Chrome");
-			driver = new ChromeDriver();
+				System.out.println(this.chromePath);
+				System.setProperty("webdriver.chrome.driver", this.chromePath);
+				LoggerClass.info("Driver is Chrome");
+				driver = new ChromeDriver();
 
-		} else if (browserToRun.contentEquals("firefox")) {
-			System.out.println(this.firefoxPath);
-			System.setProperty("webdriver.gecko.driver", this.firefoxPath);
-			LoggerClass.info("Driver is firefox");
-			driver = new FirefoxDriver();
+			} else if (browserToRun.contentEquals("firefox")) {
+				System.out.println(this.firefoxPath);
+				System.setProperty("webdriver.gecko.driver", this.firefoxPath);
+				LoggerClass.info("Driver is firefox");
+				driver = new FirefoxDriver();
+			}
+		} else {
+			if (browserToRun.equals("chrome")) {
+
+				System.out.println(this.chromePathWindows);
+				System.setProperty("webdriver.chrome.driver", this.chromePathWindows);
+				LoggerClass.info("Driver is Chrome");
+				driver = new ChromeDriver();
+
+			} else if (browserToRun.contentEquals("firefox")) {
+				System.out.println(this.firefoxPathWindows);
+				System.setProperty("webdriver.gecko.driver", this.firefoxPathWindows);
+				LoggerClass.info("Driver is firefox");
+				driver = new FirefoxDriver();
+			}
 		}
+	
 
 		driver.get(this.baseURL);
 	}
@@ -69,6 +88,8 @@ public class BaseClass {
 		this.chromePath = readConfig.getChromeDriverPath();
 		this.firefoxPath = readConfig.getFirefoxDriverPath();
 		this.log4jXMLPath = readConfig.getLog4jXMLPath();
+		this.chromePathWindows = readConfig.getChromePathWindows();
+		this.firefoxPathWindows = readConfig.getFirefoxPathWindows();
 
 	}
 

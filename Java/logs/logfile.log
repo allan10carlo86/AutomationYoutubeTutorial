@@ -1,0 +1,464 @@
+2020-07-07 11:23:36,928 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 11:23:45,737 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:23:45,737 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:23:45,738 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 11:23:45,738 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:23:45,738 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:23:45,783 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 11:23:45,979 INFO  [LoggerClass] Username Entered 
+2020-07-07 11:23:46,085 INFO  [LoggerClass] Password Entered 
+2020-07-07 11:23:53,494 INFO  [LoggerClass] Good Title 
+2020-07-07 11:23:53,494 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 11:23:53,495 INFO  [LoggerClass] X 
+2020-07-07 11:23:53,495 INFO  [LoggerClass] X 
+2020-07-07 11:23:53,495 INFO  [LoggerClass] X 
+2020-07-07 11:23:53,495 INFO  [LoggerClass] X 
+2020-07-07 11:23:54,286 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 11:24:06,665 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:24:06,665 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:24:06,665 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 11:24:06,665 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:24:06,665 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 11:24:06,666 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 11:24:07,206 INFO  [LoggerClass] Username Entered 
+2020-07-07 11:24:08,355 INFO  [LoggerClass] Password Entered 
+2020-07-07 11:24:16,164 INFO  [LoggerClass] Good Title 
+2020-07-07 11:24:16,165 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 11:24:16,165 INFO  [LoggerClass] X 
+2020-07-07 11:24:16,165 INFO  [LoggerClass] X 
+2020-07-07 11:24:16,165 INFO  [LoggerClass] X 
+2020-07-07 11:24:16,165 INFO  [LoggerClass] X 
+2020-07-07 12:15:43,471 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:15:56,812 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:15:56,812 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:15:56,812 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:15:56,812 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:15:56,812 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:15:56,869 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:15:57,174 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:15:57,431 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:15:59,650 INFO  [LoggerClass] Good Title 
+2020-07-07 12:15:59,650 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:15:59,650 INFO  [LoggerClass] X 
+2020-07-07 12:15:59,650 INFO  [LoggerClass] X 
+2020-07-07 12:15:59,650 INFO  [LoggerClass] X 
+2020-07-07 12:15:59,650 INFO  [LoggerClass] X 
+2020-07-07 12:15:59,884 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:16:09,385 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:16:23,041 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:16:23,042 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:16:23,042 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:16:23,042 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:16:23,042 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:16:23,049 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:16:23,235 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:16:23,284 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:16:26,885 INFO  [LoggerClass] Good Title 
+2020-07-07 12:16:26,885 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:16:26,885 INFO  [LoggerClass] X 
+2020-07-07 12:16:26,885 INFO  [LoggerClass] X 
+2020-07-07 12:16:26,886 INFO  [LoggerClass] X 
+2020-07-07 12:16:26,886 INFO  [LoggerClass] X 
+2020-07-07 12:16:28,731 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:17:31,959 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:17:42,304 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:17:42,304 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:17:42,304 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:17:42,304 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:17:42,304 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:17:42,345 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:17:42,709 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:17:42,945 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:17:45,388 INFO  [LoggerClass] Good Title 
+2020-07-07 12:17:45,388 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:17:45,388 INFO  [LoggerClass] X 
+2020-07-07 12:17:45,389 INFO  [LoggerClass] X 
+2020-07-07 12:17:45,389 INFO  [LoggerClass] X 
+2020-07-07 12:17:45,389 INFO  [LoggerClass] X 
+2020-07-07 12:17:45,762 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:17:59,662 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:17:59,790 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:06,334 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:18:06,582 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:06,682 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:09,555 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:09,657 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:13,509 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:18:13,640 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:13,969 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:16,817 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:16,914 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:18:29,087 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:18:44,864 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:18:44,865 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:18:44,865 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:18:44,866 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:18:44,866 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:18:44,866 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:18:45,034 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:18:45,106 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:18:47,575 INFO  [LoggerClass] Good Title 
+2020-07-07 12:18:47,575 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:18:47,575 INFO  [LoggerClass] X 
+2020-07-07 12:18:47,576 INFO  [LoggerClass] X 
+2020-07-07 12:18:47,576 INFO  [LoggerClass] X 
+2020-07-07 12:18:47,576 INFO  [LoggerClass] X 
+2020-07-07 12:18:50,491 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:19:06,519 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:19:06,594 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:19:10,746 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:20:25,467 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:20:34,387 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:20:34,387 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:20:34,387 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:20:34,387 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:20:34,387 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:20:34,424 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:20:34,690 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:20:34,883 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:20:38,665 INFO  [LoggerClass] Good Title 
+2020-07-07 12:20:38,666 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:20:38,666 INFO  [LoggerClass] X 
+2020-07-07 12:20:38,666 INFO  [LoggerClass] X 
+2020-07-07 12:20:38,666 INFO  [LoggerClass] X 
+2020-07-07 12:20:38,666 INFO  [LoggerClass] X 
+2020-07-07 12:20:39,245 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:20:52,150 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:20:52,503 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:20:57,601 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:20:57,850 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:20:58,089 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:00,848 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:00,971 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:05,250 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:21:05,392 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:05,527 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:08,552 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:08,683 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:12,436 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:21:12,554 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:12,658 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:15,145 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:15,220 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:17,972 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:18,057 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:20,725 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:20,805 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:23,555 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:23,637 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:26,298 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:26,388 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:29,581 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:29,651 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:32,127 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:32,227 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:21:36,339 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:21:52,262 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:21:52,262 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:21:52,262 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:21:52,262 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:21:52,263 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:21:52,265 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:21:52,698 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:21:52,953 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:21:56,171 INFO  [LoggerClass] Good Title 
+2020-07-07 12:21:56,171 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:21:56,171 INFO  [LoggerClass] X 
+2020-07-07 12:21:56,171 INFO  [LoggerClass] X 
+2020-07-07 12:21:56,171 INFO  [LoggerClass] X 
+2020-07-07 12:21:56,171 INFO  [LoggerClass] X 
+2020-07-07 12:21:58,688 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:22:15,175 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:22:15,338 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:22:19,774 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:23:53,073 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:24:03,964 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:03,964 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:03,965 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:24:03,965 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:03,965 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:04,009 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:24:04,332 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:24:04,680 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:24:06,680 ERROR [LoggerClass] Bad Title 
+2020-07-07 12:24:09,350 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:24:22,098 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:24:22,218 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:24:36,235 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:24:48,871 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:48,871 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:48,871 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:24:48,871 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:48,871 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:24:48,872 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:24:49,061 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:24:49,131 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:24:51,819 INFO  [LoggerClass] Good Title 
+2020-07-07 12:24:51,819 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:24:51,819 INFO  [LoggerClass] X 
+2020-07-07 12:24:51,819 INFO  [LoggerClass] X 
+2020-07-07 12:24:51,819 INFO  [LoggerClass] X 
+2020-07-07 12:24:51,819 INFO  [LoggerClass] X 
+2020-07-07 12:24:53,508 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:25:08,884 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:25:08,954 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:25:13,061 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:27:52,205 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:28:04,193 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:04,193 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:04,193 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:28:04,193 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:04,193 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:04,232 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:28:04,528 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:28:04,699 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:28:06,566 INFO  [LoggerClass] Good Title 
+2020-07-07 12:28:06,566 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:28:06,566 INFO  [LoggerClass] X 
+2020-07-07 12:28:06,566 INFO  [LoggerClass] X 
+2020-07-07 12:28:06,566 INFO  [LoggerClass] X 
+2020-07-07 12:28:06,566 INFO  [LoggerClass] X 
+2020-07-07 12:28:06,895 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 12:28:23,045 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:23,325 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:28,461 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:28:28,661 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:28,784 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:31,077 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:31,307 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:36,144 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:28:36,340 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:36,460 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:38,942 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:39,060 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:28:43,341 INFO  [LoggerClass] Login Passed 
+2020-07-07 12:28:45,354 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:28:58,199 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:58,199 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:58,199 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 12:28:58,199 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:58,199 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 12:28:58,199 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 12:28:58,690 INFO  [LoggerClass] Username Entered 
+2020-07-07 12:28:58,912 INFO  [LoggerClass] Password Entered 
+2020-07-07 12:29:03,119 INFO  [LoggerClass] Good Title 
+2020-07-07 12:29:03,119 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 12:29:03,119 INFO  [LoggerClass] X 
+2020-07-07 12:29:03,119 INFO  [LoggerClass] X 
+2020-07-07 12:29:03,119 INFO  [LoggerClass] X 
+2020-07-07 12:29:03,119 INFO  [LoggerClass] X 
+2020-07-07 12:29:05,897 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 12:29:19,604 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:29:19,668 INFO  [LoggerClass] Username is provided 
+2020-07-07 12:29:25,121 INFO  [LoggerClass] Login Passed 
+2020-07-07 13:07:22,391 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 13:07:33,866 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:07:33,866 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:07:33,866 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 13:07:33,866 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:07:33,866 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:07:33,929 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 13:07:34,208 INFO  [LoggerClass] Username Entered 
+2020-07-07 13:07:34,422 INFO  [LoggerClass] Password Entered 
+2020-07-07 13:07:36,385 INFO  [LoggerClass] Good Title 
+2020-07-07 13:07:36,385 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 13:07:36,385 INFO  [LoggerClass] X 
+2020-07-07 13:07:36,385 INFO  [LoggerClass] X 
+2020-07-07 13:07:36,385 INFO  [LoggerClass] X 
+2020-07-07 13:07:36,385 INFO  [LoggerClass] X 
+2020-07-07 13:07:36,652 INFO  [LoggerClass] Driver is Chrome 
+2020-07-07 13:07:49,066 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:07:49,285 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:07:54,672 INFO  [LoggerClass] Login Passed 
+2020-07-07 13:07:54,844 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:07:54,938 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:07:57,527 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:07:57,644 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:08:02,200 INFO  [LoggerClass] Login Passed 
+2020-07-07 13:08:02,336 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:08:02,481 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:08:05,485 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:08:05,614 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:08:09,118 INFO  [LoggerClass] Login Passed 
+2020-07-07 13:08:10,386 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 13:08:20,984 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:08:20,984 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:08:20,985 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-07 13:08:20,985 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:08:20,985 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-07 13:08:20,985 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-07 13:08:21,363 INFO  [LoggerClass] Username Entered 
+2020-07-07 13:08:21,702 INFO  [LoggerClass] Password Entered 
+2020-07-07 13:08:24,585 INFO  [LoggerClass] Good Title 
+2020-07-07 13:08:24,585 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-07 13:08:24,585 INFO  [LoggerClass] X 
+2020-07-07 13:08:24,585 INFO  [LoggerClass] X 
+2020-07-07 13:08:24,585 INFO  [LoggerClass] X 
+2020-07-07 13:08:24,585 INFO  [LoggerClass] X 
+2020-07-07 13:08:27,426 INFO  [LoggerClass] Driver is firefox 
+2020-07-07 13:08:45,345 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:08:45,397 INFO  [LoggerClass] Username is provided 
+2020-07-07 13:08:50,584 INFO  [LoggerClass] Login Passed 
+2020-07-13 08:51:23,287 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 08:51:37,273 INFO  [LoggerClass] User name is provided 
+2020-07-13 08:51:37,461 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 08:51:43,608 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 08:51:56,025 INFO  [LoggerClass] validation started.... 
+2020-07-13 08:51:56,090 INFO  [LoggerClass] test case passed.... 
+2020-07-13 08:51:57,349 INFO  [LoggerClass] Driver is firefox 
+2020-07-13 08:52:10,495 INFO  [LoggerClass] User name is provided 
+2020-07-13 08:52:10,603 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 08:52:17,536 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 08:52:26,699 INFO  [LoggerClass] validation started.... 
+2020-07-13 08:52:38,862 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 08:52:50,132 INFO  [LoggerClass] User name is provided 
+2020-07-13 08:52:50,295 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 08:52:57,044 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 08:53:08,614 INFO  [LoggerClass] validation started.... 
+2020-07-13 08:53:08,633 INFO  [LoggerClass] test case passed.... 
+2020-07-13 08:53:09,756 INFO  [LoggerClass] Driver is firefox 
+2020-07-13 08:53:19,706 INFO  [LoggerClass] User name is provided 
+2020-07-13 08:53:19,815 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 08:53:27,075 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 08:53:36,120 INFO  [LoggerClass] validation started.... 
+2020-07-13 08:53:36,152 INFO  [LoggerClass] test case failed.... 
+2020-07-13 09:14:33,261 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 09:14:49,334 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:14:49,335 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:14:49,335 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-13 09:14:49,335 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:14:49,335 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:14:49,397 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-13 09:14:49,624 INFO  [LoggerClass] Username Entered 
+2020-07-13 09:14:49,761 INFO  [LoggerClass] Password Entered 
+2020-07-13 09:14:53,003 INFO  [LoggerClass] Good Title 
+2020-07-13 09:14:53,004 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-13 09:14:53,004 INFO  [LoggerClass] X 
+2020-07-13 09:14:53,004 INFO  [LoggerClass] X 
+2020-07-13 09:14:53,004 INFO  [LoggerClass] X 
+2020-07-13 09:14:53,004 INFO  [LoggerClass] X 
+2020-07-13 09:14:53,178 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 09:15:03,795 INFO  [LoggerClass] User name is provided 
+2020-07-13 09:15:04,281 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 09:15:10,808 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 09:15:28,734 INFO  [LoggerClass] validation started.... 
+2020-07-13 09:15:28,781 INFO  [LoggerClass] test case passed.... 
+2020-07-13 09:38:21,755 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 09:38:33,508 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:38:33,508 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:38:33,508 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-13 09:38:33,508 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:38:33,508 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:38:33,544 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-13 09:38:33,742 INFO  [LoggerClass] Username Entered 
+2020-07-13 09:38:33,844 INFO  [LoggerClass] Password Entered 
+2020-07-13 09:38:37,059 INFO  [LoggerClass] Good Title 
+2020-07-13 09:38:37,059 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-13 09:38:37,059 INFO  [LoggerClass] X 
+2020-07-13 09:38:37,059 INFO  [LoggerClass] X 
+2020-07-13 09:38:37,059 INFO  [LoggerClass] X 
+2020-07-13 09:38:37,059 INFO  [LoggerClass] X 
+2020-07-13 09:38:37,266 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 09:39:11,816 INFO  [LoggerClass] User name is provided 
+2020-07-13 09:39:12,183 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 09:40:17,795 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 09:40:32,009 INFO  [LoggerClass] validation started.... 
+2020-07-13 09:40:32,038 INFO  [LoggerClass] test case passed.... 
+2020-07-13 09:46:04,134 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 09:46:44,970 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:46:44,977 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:46:44,978 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-13 09:46:44,978 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:46:44,978 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 09:46:45,147 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-13 09:46:45,645 INFO  [LoggerClass] Username Entered 
+2020-07-13 09:46:45,839 INFO  [LoggerClass] Password Entered 
+2020-07-13 09:46:54,871 INFO  [LoggerClass] Good Title 
+2020-07-13 09:46:54,871 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-13 09:46:54,871 INFO  [LoggerClass] X 
+2020-07-13 09:46:54,871 INFO  [LoggerClass] X 
+2020-07-13 09:46:54,872 INFO  [LoggerClass] X 
+2020-07-13 09:46:54,872 INFO  [LoggerClass] X 
+2020-07-13 09:46:55,086 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 09:47:03,232 INFO  [LoggerClass] User name is provided 
+2020-07-13 09:47:03,398 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 09:47:10,359 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 09:47:23,303 INFO  [LoggerClass] validation started.... 
+2020-07-13 09:47:23,326 INFO  [LoggerClass] test case passed.... 
+2020-07-13 10:01:57,143 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 10:02:06,850 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:02:06,851 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:02:06,851 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-13 10:02:06,851 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:02:06,851 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:02:06,885 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-13 10:02:07,082 INFO  [LoggerClass] Username Entered 
+2020-07-13 10:02:07,241 INFO  [LoggerClass] Password Entered 
+2020-07-13 10:02:09,748 INFO  [LoggerClass] Good Title 
+2020-07-13 10:02:09,748 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-13 10:02:09,748 INFO  [LoggerClass] X 
+2020-07-13 10:02:09,748 INFO  [LoggerClass] X 
+2020-07-13 10:02:09,748 INFO  [LoggerClass] X 
+2020-07-13 10:02:09,748 INFO  [LoggerClass] X 
+2020-07-13 10:02:10,031 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 10:02:16,591 INFO  [LoggerClass] User name is provided 
+2020-07-13 10:02:16,720 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 10:02:23,673 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 10:02:34,968 INFO  [LoggerClass] validation started.... 
+2020-07-13 10:02:34,987 INFO  [LoggerClass] test case passed.... 
+2020-07-13 10:23:18,691 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 10:23:29,094 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:23:29,094 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:23:29,095 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-13 10:23:29,095 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:23:29,095 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-13 10:23:29,133 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-13 10:23:29,287 INFO  [LoggerClass] Username Entered 
+2020-07-13 10:23:29,376 INFO  [LoggerClass] Password Entered 
+2020-07-13 10:23:35,175 INFO  [LoggerClass] Good Title 
+2020-07-13 10:23:35,175 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-13 10:23:35,175 INFO  [LoggerClass] X 
+2020-07-13 10:23:35,175 INFO  [LoggerClass] X 
+2020-07-13 10:23:35,175 INFO  [LoggerClass] X 
+2020-07-13 10:23:35,176 INFO  [LoggerClass] X 
+2020-07-13 10:23:35,399 INFO  [LoggerClass] Driver is Chrome 
+2020-07-13 10:23:43,966 INFO  [LoggerClass] User name is provided 
+2020-07-13 10:23:44,108 INFO  [LoggerClass] Passsword is provided 
+2020-07-13 10:23:52,184 INFO  [LoggerClass] providing customer details.... 
+2020-07-13 10:24:03,371 INFO  [LoggerClass] validation started.... 
+2020-07-13 10:24:03,390 INFO  [LoggerClass] test case passed.... 
+2020-07-14 11:43:55,915 INFO  [LoggerClass] Driver is Chrome 
+2020-07-14 11:44:25,767 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 11:44:25,767 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 11:44:25,767 INFO  [LoggerClass] $$$$$$$$$$$$$$$$$$$$$                 com.inetbanking.testCases.TC_LoginTest_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-07-14 11:44:25,767 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 11:44:25,767 INFO  [LoggerClass] **************************************************************************************** 
+2020-07-14 11:44:25,801 INFO  [LoggerClass] Logged to URL http://demo.guru99.com/v4 
+2020-07-14 11:44:26,046 INFO  [LoggerClass] Username Entered 
+2020-07-14 11:44:26,171 INFO  [LoggerClass] Password Entered 
+2020-07-14 11:45:11,357 INFO  [LoggerClass] Good Title 
+2020-07-14 11:45:11,357 INFO  [LoggerClass] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-07-14 11:45:11,357 INFO  [LoggerClass] X 
+2020-07-14 11:45:11,357 INFO  [LoggerClass] X 
+2020-07-14 11:45:11,357 INFO  [LoggerClass] X 
+2020-07-14 11:45:11,357 INFO  [LoggerClass] X 
+2020-07-14 11:45:11,579 INFO  [LoggerClass] Driver is Chrome 
+2020-07-14 11:45:21,257 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:21,376 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:27,227 INFO  [LoggerClass] Login Passed 
+2020-07-14 11:45:27,341 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:27,468 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:30,453 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:30,539 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:34,930 INFO  [LoggerClass] Login Passed 
+2020-07-14 11:45:35,013 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:35,095 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:37,582 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:37,677 INFO  [LoggerClass] Username is provided 
+2020-07-14 11:45:42,727 INFO  [LoggerClass] Login Passed 
+2020-07-14 11:45:42,850 INFO  [LoggerClass] Driver is Chrome 
+2020-07-14 11:45:52,148 INFO  [LoggerClass] User name is provided 
+2020-07-14 11:45:52,278 INFO  [LoggerClass] Passsword is provided 
+2020-07-14 11:46:00,751 INFO  [LoggerClass] providing customer details.... 
+2020-07-14 11:46:16,197 INFO  [LoggerClass] validation started.... 
+2020-07-14 11:46:16,208 INFO  [LoggerClass] test case passed.... 

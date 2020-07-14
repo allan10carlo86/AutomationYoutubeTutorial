@@ -46,4 +46,12 @@ public class ReadConfig {
 	public String getLog4jXMLPath() {
 		return prop.getProperty("log4jXMLPath");
 	}
+	
+	public String getChromePathWindows() {
+		return prop.getProperty("chromepathWindows");
+	}
+	
+	public String getFirefoxPathWindows() {
+		return prop.getProperty("firefoxpathWindows");
+	}
 }
